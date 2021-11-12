@@ -1,0 +1,22 @@
+How to write comments in python3
+  # single line comment 
+  '''
+   muti line comment
+  '''
+
+  python interpreter: 
+   #python is an interpreter based languages 
+   compiler based language. 
+   compiler goes line by line to check for errors.
+   interpreter based lanague goes line by line and left to write , it also check syntax error.
+   Every lanague uses variables.  to use anything in a python we must define the variable.
+
+   variables :
+
+    int = (12345)
+    float(100.5)
+
+    x = 2 
+
+    x = variable 
+    2 = assigned value 
